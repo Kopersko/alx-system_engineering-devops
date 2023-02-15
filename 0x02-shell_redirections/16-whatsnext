@@ -1,0 +1,2 @@
+#!/bin/bash
+frep -iA 3 "root" /etc/passwd 
